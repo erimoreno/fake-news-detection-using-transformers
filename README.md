@@ -1,1 +1,1 @@
-# Detección de noticias falsas usando Modelos basados en Transformers
+# Fake News detection from Kaggle Dataset
